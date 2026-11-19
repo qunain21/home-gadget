@@ -1,0 +1,6 @@
+{
+  "name": "Hearth & Counter",
+  "description": "Modern home & kitchen gadgets storefront with curated smart appliances, responsive mobile-first browsing, and direct WhatsApp order checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
